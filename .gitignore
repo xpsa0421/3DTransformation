@@ -1,0 +1,10 @@
+# Visual Studio Files
+.vs/
+*.sln
+*.vcxproj
+
+# Third party
+/thirdparty/
+
+# Output
+/out/*
